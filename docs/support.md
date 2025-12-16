@@ -9,7 +9,7 @@ title: Support / Kontakt
 
 Bitte geben Sie an: iOS‑Version, Gerätemodell, App‑Version/Build, Schritte zur Reproduktion, erwartetes vs. tatsächliches Verhalten, ggf. Screenshots.
 
-Weitere Kontaktmöglichkeit: chuben_technologies@icloud.com  
+Weitere Kontaktmöglichkeit: mail@jch-technologies.de 
 Telefonischer Support ist nicht vorgesehen.
 
 Reaktionszeiten: üblicherweise innerhalb einiger Werktage. Kein SLA.
@@ -23,7 +23,7 @@ Reaktionszeiten: üblicherweise innerhalb einiger Werktage. Kein SLA.
 
 Please include: iOS version, device model, app version/build, steps to reproduce, expected vs. actual behavior, and screenshots if possible.
 
-Alternative contact: chuben_technologies@icloud.com  
+Alternative contact: mail@jch-technologies.de 
 No phone support.
 
 Response time: typically within a few business days. No SLA.
