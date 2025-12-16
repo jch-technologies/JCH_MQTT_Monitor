@@ -8,7 +8,7 @@ title: Datenschutz / Privacy Policy
 Joachim Christof Huben  
 c/o flexdienst – #11403  
 Kurt-Schumacher-Straße 76, 67663 Kaiserslautern, Deutschland  
-E-Mail: chuben_technologies@icloud.com  
+E-Mail: mail@jch-technologies.de
 Telefon: +49 15679 698581
 
 **Verarbeitete Daten und Zwecke**
@@ -43,7 +43,7 @@ Wir beachten zusätzlich das UK GDPR; obige Kontaktdaten gelten auch für das Ve
 Keine „Verkäufe“ oder „Sharing“ personenbezogener Daten; Verarbeitung ausschließlich lokal auf dem Gerät.  
 Kontakt für Rechteanfragen: chuben_technologies@icloud.com
 
-**Stand**: 03.09.2025
+**Stand**: 16.12.2025
 
 —
 
@@ -53,7 +53,7 @@ Kontakt für Rechteanfragen: chuben_technologies@icloud.com
 Joachim Christof Huben  
 c/o flexdienst – #11403  
 Kurt-Schumacher-Straße 76, 67663 Kaiserslautern, Germany  
-E‑mail: chuben_technologies@icloud.com  
+E‑mail: mail@jch-technologies.de 
 Phone: +49 15679 698581
 
 **Data processed and purposes**
@@ -85,7 +85,7 @@ Contact as above or via GitHub (below).
 No “sale” or “sharing” of personal data; processing occurs locally on device.  
 Contact for privacy requests: chuben_technologies@icloud.com
 
-**As of**: 03.09.2025
+**As of**: 16.12.2025
 
 —
 
